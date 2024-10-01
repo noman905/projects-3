@@ -1,2 +1,2 @@
-//afzal is a brand
+//ismail is not brand
 
